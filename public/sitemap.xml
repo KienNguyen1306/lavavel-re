@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://127.0.0.1:8000/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>http://127.0.0.1:8000/sitemap/page-sitemap.xml</loc>
+    
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://127.0.0.1:8000/sitemap/categories-sitemap.xml</loc>
+    
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://127.0.0.1:8000/sitemap/regions-sitemap.xml</loc>
+    
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>http://127.0.0.1:8000/sitemap/movies-sitemap1.xml</loc>
+    
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+    </sitemap>
+</sitemapindex>

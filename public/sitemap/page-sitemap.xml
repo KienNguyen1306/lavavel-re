@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://127.0.0.1:8000/main-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://127.0.0.1:8000</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>hourly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8000/danh-sach/phim-bo</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8000/danh-sach/phim-le</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8000/danh-sach/phim-moi</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+</urlset>

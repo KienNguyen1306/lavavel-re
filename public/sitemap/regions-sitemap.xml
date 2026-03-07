@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://127.0.0.1:8000/main-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>http://127.0.0.1:8000/quoc-gia/han-quoc</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8000/quoc-gia/indonesia</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8000/quoc-gia/nhat-ban</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8000/quoc-gia/tho-nhi-ky</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://127.0.0.1:8000/quoc-gia/trung-quoc</loc>
+        <lastmod>2026-02-24T14:35:05+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
