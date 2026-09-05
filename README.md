@@ -73,8 +73,8 @@ Format Document With...
 Laravel Blade Formatter
 Set as Default Formatter
 
-<script disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>
-<script async  disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool" ></script>
+<script disable-devtool-auto src="https://kiennguyen1306.github.io"></script>
+<script async  disable-devtool-auto src="https://kiennguyen1306.github.io" ></script>
 
 // Nếu file đã tồn tại
 if (Storage::disk('public')->exists($path)) {
